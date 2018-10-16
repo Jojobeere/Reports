@@ -1,0 +1,8 @@
+Lab 1: Ethical Software Engineering
+
+Fallbeispiel: Manipulationen
+We (Florian, Sao Chi, Johanna) chose the "Fallbeispiel: Manipulation". It is about an employee of the company "CompanyRate". This company programms a rating system for banking compynies. The employee listens secretly to a phone call of one colleague. Now he suspects him to work with the company "People’s Fruit Company" because on the next day he finds some new code in thier program. This code is good for the "People’s Fruit Company". The colleague wrote a lot of other code. The employee doesn't know if the colleague is really illegally interacting with the company and wrote the new code to hide the suspicious one. Weeks ago another colleague got fired because of something strange. The employee is in a dilemma right now.
+
+Our discussion was about the trust and the manipulation in this example. First of all the code always needs to get reviewed by colleagues....(weiß nicht, was hier noch hin soll).
+Next every employee had to subscribe a NDA. 
+Finally company
